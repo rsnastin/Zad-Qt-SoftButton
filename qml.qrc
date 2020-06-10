@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SoftButtonUI.qml</file>
+        <file>plomykowka.png</file>
+        <file>puchacz.png</file>
+    </qresource>
+</RCC>
